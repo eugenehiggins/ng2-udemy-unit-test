@@ -5,7 +5,7 @@ import {HttpModule} from '@angular/http';
 
 import {AppComponent} from './app.component';
 import { UserComponent } from './user/user.component';
-import {UserService} from "./user/user.servic";
+import {UserService} from "./user/user.service";
 
 @NgModule({
     declarations: [
